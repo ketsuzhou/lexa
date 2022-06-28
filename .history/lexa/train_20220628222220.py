@@ -161,6 +161,7 @@ def main(logdir, config):
         except Exception:
             pass
 
+
 if __name__ == '__main__':
     args, remaining = parse_dreamer_args()
     main(args.logdir, remaining)

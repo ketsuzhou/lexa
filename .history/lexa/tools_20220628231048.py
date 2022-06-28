@@ -10,7 +10,7 @@ import re
 import time
 import uuid
 
-import numpy as np
+# import numpy as np
 import tensorflow as tf
 import tensorflow.compat.v1 as tf1
 import tensorflow_probability as tfp
